@@ -18,8 +18,8 @@ bool get_data = false;
 int dt;
 
 // Connecting to the Internet
-char  ssid [] = "one";
-char pass [] = "123456789inxx";
+char  ssid [] = "";
+char pass [] = "";
 
 // Running a web server
 ESP8266WebServer server;
